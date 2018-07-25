@@ -66,5 +66,6 @@ img:hover {
 
 .large {
   width: 100%;
+  float: left;
 }
 
