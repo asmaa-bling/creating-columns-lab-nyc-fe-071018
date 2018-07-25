@@ -56,20 +56,18 @@ img:hover {
 
 .small {
   width: 33.3333%;
-  float: left;
   position: relative;
   top: 0;
   left: 0;
-  display: block;
+  display: inline-block;
 }
 
 .med {
   width: 66.6667%;
-  float: left;
   position: relative;
   top: 0;
   left: 0;
-  display: block;
+  display: inline-block;
 }
 
 .large {
