@@ -63,10 +63,12 @@ img:hover {
 .med {
   width: 66%;
   float: left;
+  position: relative;
 }
 
 .large {
   width: 100%;
   float: left;
+  position: relative;
 }
 
