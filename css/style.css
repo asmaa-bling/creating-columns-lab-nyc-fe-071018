@@ -74,9 +74,8 @@ img:hover {
 
 .large {
   width: 100%;
-  float: left;
   top: 0;
   left: 0;
-  display: block;
+  display: inline-block;
 }
 
