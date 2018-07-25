@@ -55,7 +55,7 @@ img:hover {
 /* create your tile classes! we recommend .small .med .large */
 
 .small {
-  width: 33%;
+  width: 33.3333%;
   float: left;
   position: relative;
   top: 0;
@@ -63,7 +63,7 @@ img:hover {
 }
 
 .med {
-  width: 33.3333%;;
+  width: 66.6667%;
   float: left;
   position: relative;
   top: 0;
