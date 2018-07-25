@@ -73,7 +73,6 @@ img:hover {
 .large {
   width: 100%;
   float: left;
-  position: relative;
   top: 0;
   left: 0;
 }
