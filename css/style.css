@@ -52,6 +52,8 @@ img:hover {
   display: inline;
 }
 
+/* create your tile classes! we recommend .small .med .large */
+
 .small {
   
 }
@@ -63,8 +65,3 @@ img:hover {
 .large {
   
 }
-
-img {
-  float: left;
-}
-/* create your tile classes! we recommend .small .med .large */
